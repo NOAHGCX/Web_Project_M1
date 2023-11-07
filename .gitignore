@@ -1,0 +1,6 @@
+# Ignorer db.config.js
+# server/db.config.js # il doit juste entrer son mdp qui est vide pour l'instant
+
+# ignorer les node_modules
+server/node_modules
+what-around-us-client/node_modules
